@@ -1,0 +1,237 @@
+[
+    {
+        "id": "qGQivn4B1eg",
+        "assignee": "Mr A ÐS",
+        "status": "OPEN",
+        "space": "Back Office (Digital Services)",
+        "created_at": "2025-10-07T21:33:46.019103Z",
+        "last_updated": "2025-10-07T21:33:46.019103Z",
+        "message_text": "Created a task for @Mr A ÐS (via Tasks)",
+        "sender": "Unknown",
+        "thread_name": "spaces/AAAA1djitm8/threads/qGQivn4B1eg",
+        "first_thread_message": "Please open booking in REZDY for Q1 2026. I have a query for Feb 2026. He wants to book.",
+        "thread_messages": [
+            {
+                "date": "2025-10-07T21:33:32.783439Z",
+                "sender": "Unknown",
+                "message": "Please open booking in REZDY for Q1 2026. I have a query for Feb 2026. He wants to book."
+            },
+            {
+                "date": "2025-10-07T21:33:46.019103Z",
+                "sender": "Unknown",
+                "message": "Created a task for @Mr A ÐS (via Tasks)"
+            }
+        ]
+    },
+    {
+        "id": "oSkJhz5W-n4",
+        "assignee": "Mr A ÐS",
+        "status": "OPEN",
+        "space": "I.E.",
+        "created_at": "2025-10-07T23:17:45.053503Z",
+        "last_updated": "2025-10-07T23:17:45.053503Z",
+        "message_text": "Created a task for @Mr A ÐS (via Tasks)",
+        "sender": "Unknown",
+        "thread_name": "spaces/AAAAfPFB3gs/threads/oSkJhz5W-n4",
+        "first_thread_message": "Created a task for @Mr A ÐS (via Tasks)",
+        "thread_messages": [
+            {
+                "date": "2025-10-07T23:17:45.053503Z",
+                "sender": "Unknown",
+                "message": "Created a task for @Mr A ÐS (via Tasks)"
+            }
+        ]
+    },
+    {
+        "id": "_qKeYIoCKBs",
+        "assignee": "Tsiko Sharaveli",
+        "status": "OPEN",
+        "space": "I.E.",
+        "created_at": "2025-10-07T23:20:05.704063Z",
+        "last_updated": "2025-10-07T23:20:05.704063Z",
+        "message_text": "Created a task for @Tsiko Sharaveli (via Tasks)",
+        "sender": "Unknown",
+        "thread_name": "spaces/AAAAfPFB3gs/threads/_qKeYIoCKBs",
+        "first_thread_message": "Enable Bank of Georgia Payment Gateway under Mr A guidance",
+        "thread_messages": [
+            {
+                "date": "2025-10-07T23:19:52.066671Z",
+                "sender": "Unknown",
+                "message": "Enable Bank of Georgia Payment Gateway under Mr A guidance"
+            },
+            {
+                "date": "2025-10-07T23:20:05.704063Z",
+                "sender": "Unknown",
+                "message": "Created a task for @Tsiko Sharaveli (via Tasks)"
+            }
+        ]
+    },
+    {
+        "id": "QVSDPJLhvwE",
+        "assignee": "Рriyanka Das",
+        "status": "OPEN",
+        "space": "Back Office (DMS and Accounts)",
+        "created_at": "2025-10-07T20:35:20.694879Z",
+        "last_updated": "2025-10-07T20:35:20.694879Z",
+        "message_text": "Created a task for @Рriyanka Das (via Tasks)",
+        "sender": "Unknown",
+        "thread_name": "spaces/AAAAeuK88Cw/threads/QVSDPJLhvwE",
+        "first_thread_message": "Record dining airport travel expenses",
+        "thread_messages": [
+            {
+                "date": "2025-10-07T20:35:10.889455Z",
+                "sender": "Unknown",
+                "message": "Record dining airport travel expenses"
+            },
+            {
+                "date": "2025-10-07T20:35:20.694879Z",
+                "sender": "Unknown",
+                "message": "Created a task for @Рriyanka Das (via Tasks)"
+            },
+            {
+                "date": "2025-10-07T20:35:27.894975Z",
+                "sender": "Unknown",
+                "message": "Created a task for @Рriyanka Das (via Tasks)"
+            }
+        ]
+    },
+    {
+        "id": "QVSDPJLhvwE",
+        "assignee": "Рriyanka Das",
+        "status": "OPEN",
+        "space": "Back Office (DMS and Accounts)",
+        "created_at": "2025-10-07T20:35:27.894975Z",
+        "last_updated": "2025-10-07T20:35:27.894975Z",
+        "message_text": "Created a task for @Рriyanka Das (via Tasks)",
+        "sender": "Unknown",
+        "thread_name": "spaces/AAAAeuK88Cw/threads/QVSDPJLhvwE",
+        "first_thread_message": "Record dining airport travel expenses",
+        "thread_messages": [
+            {
+                "date": "2025-10-07T20:35:10.889455Z",
+                "sender": "Unknown",
+                "message": "Record dining airport travel expenses"
+            },
+            {
+                "date": "2025-10-07T20:35:20.694879Z",
+                "sender": "Unknown",
+                "message": "Created a task for @Рriyanka Das (via Tasks)"
+            },
+            {
+                "date": "2025-10-07T20:35:27.894975Z",
+                "sender": "Unknown",
+                "message": "Created a task for @Рriyanka Das (via Tasks)"
+            }
+        ]
+    },
+    {
+        "id": "G_wlYFLxoac",
+        "assignee": "Priyanka D ÐS",
+        "status": "COMPLETED",
+        "space": "Back Office (DMS and Accounts)",
+        "created_at": "2025-10-07T21:36:54.718143Z",
+        "last_updated": "2025-10-07T21:36:54.718143Z",
+        "message_text": "Created a task for @Priyanka D ÐS (P) (via Tasks)",
+        "sender": "Unknown",
+        "thread_name": "spaces/AAAAeuK88Cw/threads/G_wlYFLxoac",
+        "first_thread_message": "ensure you can access roundcube to see all my emails at me@weiwu.id.au",
+        "thread_messages": [
+            {
+                "date": "2025-10-07T21:36:33.445967Z",
+                "sender": "Unknown",
+                "message": "ensure you can access roundcube to see all my emails at me@weiwu.id.au"
+            },
+            {
+                "date": "2025-10-07T21:36:54.718143Z",
+                "sender": "Unknown",
+                "message": "Created a task for @Priyanka D ÐS (P) (via Tasks)"
+            },
+            {
+                "date": "2025-10-07T21:39:54.714175Z",
+                "sender": "Unknown",
+                "message": "Completed a task (via Tasks)"
+            }
+        ]
+    },
+    {
+        "id": "fL-Vb7WzHqA",
+        "assignee": "Liansu Yu",
+        "status": "OPEN",
+        "space": "张家事多",
+        "created_at": "2025-10-08T00:04:21.568511Z",
+        "last_updated": "2025-10-08T00:04:21.568511Z",
+        "message_text": "Created a task for @Liansu Yu (via Tasks)",
+        "sender": "Unknown",
+        "thread_name": "spaces/AAAADYnqC1s/threads/fL-Vb7WzHqA",
+        "first_thread_message": "please vote yes for the restructuring plan @Liansu Yu",
+        "thread_messages": [
+            {
+                "date": "2025-10-08T00:03:44.101183Z",
+                "sender": "Unknown",
+                "message": "please vote yes for the restructuring plan @Liansu Yu"
+            },
+            {
+                "date": "2025-10-08T00:04:21.568511Z",
+                "sender": "Unknown",
+                "message": "Created a task for @Liansu Yu (via Tasks)"
+            }
+        ]
+    },
+    {
+        "id": "hhnyv3S9Zl4",
+        "assignee": "Mr A ÐS",
+        "status": "OPEN",
+        "space": "Palacio Bizcocheros SL",
+        "created_at": "2025-10-07T22:48:05.616735Z",
+        "last_updated": "2025-10-07T22:48:05.616735Z",
+        "message_text": "Created a task for @Mr A ÐS (via Tasks)",
+        "sender": "Unknown",
+        "thread_name": "spaces/AAAASoXaECo/threads/hhnyv3S9Zl4",
+        "first_thread_message": "Created a task for @Mr A ÐS (via Tasks)",
+        "thread_messages": [
+            {
+                "date": "2025-10-07T22:48:05.616735Z",
+                "sender": "Unknown",
+                "message": "Created a task for @Mr A ÐS (via Tasks)"
+            }
+        ]
+    },
+    {
+        "id": "uzdGw3dYPLY",
+        "assignee": "Mr A ÐS",
+        "status": "OPEN",
+        "space": "Palacio Bizcocheros SL",
+        "created_at": "2025-10-07T23:05:23.935407Z",
+        "last_updated": "2025-10-07T23:05:23.935407Z",
+        "message_text": "Created a task for @Mr A ÐS (via Tasks)",
+        "sender": "Unknown",
+        "thread_name": "spaces/AAAASoXaECo/threads/uzdGw3dYPLY",
+        "first_thread_message": "Created a task for @Mr A ÐS (via Tasks)",
+        "thread_messages": [
+            {
+                "date": "2025-10-07T23:05:23.935407Z",
+                "sender": "Unknown",
+                "message": "Created a task for @Mr A ÐS (via Tasks)"
+            }
+        ]
+    },
+    {
+        "id": "6o34rBuRd98",
+        "assignee": "Mr A ÐS",
+        "status": "OPEN",
+        "space": "Palacio Bizcocheros SL",
+        "created_at": "2025-10-07T23:06:21.366559Z",
+        "last_updated": "2025-10-07T23:06:21.366559Z",
+        "message_text": "Created a task for @Mr A ÐS (via Tasks)",
+        "sender": "Unknown",
+        "thread_name": "spaces/AAAASoXaECo/threads/6o34rBuRd98",
+        "first_thread_message": "Created a task for @Mr A ÐS (via Tasks)",
+        "thread_messages": [
+            {
+                "date": "2025-10-07T23:06:21.366559Z",
+                "sender": "Unknown",
+                "message": "Created a task for @Mr A ÐS (via Tasks)"
+            }
+        ]
+    }
+]
